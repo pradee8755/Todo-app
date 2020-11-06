@@ -1,0 +1,46 @@
+.constainer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.body {
+  width: 100%;
+  height: 90%;
+}
+.wall {
+  width: 70%;
+  height: 100%;
+}
+.footer {
+  width: 100%;
+  height: 10%;
+  background-color: rgba(182, 182, 182, 0.856);
+}
+.todoForm {
+  position: relative;
+}
+
+.button {
+  height: 20px;
+  width: 40px;
+}
+
+.form {
+  width: 100%;
+  height: 100%;
+}
+
+.formInput {
+  width: 100%;
+  height: 75%;
+}
+.buttonType {
+  position: relative;
+  height: 20%;
+  width: 100%;
+}
+
+.buttons {
+  height: 30%;
+  width: 50%;
+}

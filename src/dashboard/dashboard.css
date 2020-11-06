@@ -1,0 +1,95 @@
+.dashContainer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.header {
+  position: relative;
+  height: 10%;
+  width: 100%;
+  background-color: rgb(67, 67, 255);
+}
+
+.DashBody {
+  position: relative;
+  height: 80%;
+  width: 100%;
+}
+.footer {
+  position: relative;
+  height: 10%;
+  width: 100%;
+  background-color: grey;
+}
+
+.logo {
+  height: 45px;
+  width: auto;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.logoDiv {
+  width: 10%;
+  height: 100%;
+}
+.userDrawer {
+  width: 25%;
+  max-width: 20%;
+  min-width: 10%;
+  height: 100%;
+  background-color: #626262;
+}
+.todoBody {
+  width: 70%;
+  height: 100%;
+}
+.overLay {
+  background-color: red;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+}
+.overLayTab {
+  width: 80%;
+  height: 80%;
+  background-color: white;
+  border-radius: 10px;
+}
+.crossSec {
+  width: 100%;
+  height: 10%;
+}
+.todoSec {
+  width: 30%;
+  height: 100%;
+}
+.listBody {
+  width: 80%;
+  height: 90%;
+  overflow-y: auto;
+}
+.completeBtn {
+  width: 100%;
+}
+.compleBtn {
+  height: 35px;
+  padding-top: 30px;
+}
+.emptySpace {
+  height: 40px;
+  width: 100%;
+}
+.logoutBtn {
+  color: rgb(109, 91, 91);
+  height: 100%;
+  width: 10%;
+}
+
+.logoutTxt {
+  color: white;
+}
+
+@media (min-width: 576px) {
+}
